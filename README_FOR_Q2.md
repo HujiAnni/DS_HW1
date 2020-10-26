@@ -4,6 +4,8 @@ Please refer to the pdf document named 'Q2.pdf' for the full version of the codi
 
 All the write ups are included in the pdf file.
 
+Still, need to have the pickle files in the same directory to load the data and then start the program.
+
 ![image](https://github.com/HujiAnni/DS_HW1/blob/main/reference_Q2.png)
 
 
