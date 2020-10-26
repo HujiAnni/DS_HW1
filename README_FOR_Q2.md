@@ -1,6 +1,9 @@
 # DS_HW1
 
-Please refer to the pdf document named 'Q2.pdf' for the full version of the coding and results shown following each step.
+Please refer to the pdf document named 'Q2.pdf' for the full version of the coding and results shown following each step. 
+
+All the write ups are included in the pdf file.
+
 ![image](https://github.com/HujiAnni/DS_HW1/blob/main/reference_Q2.png)
 
 
